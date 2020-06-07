@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>          // Binary-Search code
 int main() {
 	int n, a;
 	scanf("%d", &n);
