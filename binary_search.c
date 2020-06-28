@@ -29,7 +29,7 @@ int main() {
 	x = (n % 2 == 0) ? n/2 : (n+1)/2; // if n is even then mid is n/2 else mid is (n+1)/2
 	
 	for(int i = (a <= x ? 0 : x); i <= (a <= x ? x : n); i++) {
-		if( a == arr[i] ) printf("%d is at %d position\n", a, i+1);
+		if( a == arr[i] ) printf("%d is at %d position\n", a, i+1);   // Printing the given number and its position
 	}
 	return 0;
 }
