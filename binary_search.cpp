@@ -40,7 +40,7 @@ int main() {
 	}
 	cout << "\n";
 	int key;
-	cin >> key; // taking input for the key to be found
+	cin >> key; // Taking input for the key to be found
 	cout << key << " is present at " << search(A, key)+1 << " index of the sorted array." << "\n"; // Printing the key and its index
 	return 0;
 }
