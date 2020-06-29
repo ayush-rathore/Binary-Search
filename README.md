@@ -1,2 +1,2 @@
 # Binary-Search
-This repository shows the code for binary search.
+This repository contains the code for binary search.
